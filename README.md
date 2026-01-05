@@ -7,7 +7,7 @@ Lightweight authentication microservice using Express.js and JWT.
 - MongoDB
 - Environment variables as required by the service (e.g., JWT_SECRET)
 
-## Current content
+## Steps to run
 
 Clone the repo:
 ```bash
